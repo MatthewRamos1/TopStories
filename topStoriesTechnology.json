@@ -1,0 +1,193 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2019 The New York Times Company. All Rights Reserved.",
+"section": "technology",
+"last_updated": "2019-11-24T15:17:05-05:00",
+"num_results": 39,
+"results": [
+    {
+        "section": "Technology",
+        "subsection": "",
+        "title": "Internet Companies Prepare to Fight the ‘Deepfake’ Future",
+        "abstract": "Researchers are creating tools to find A.I.-generated fake videos before they become impossible to detect. Some experts fear it is a losing battle.",
+        "url": "https://www.nytimes.com/2019/11/24/technology/tech-companies-deepfakes.html",
+        "byline": "By CADE METZ",
+        "item_type": "Article",
+        "updated_date": "2019-11-24T05:00:12-05:00",
+        "created_date": "2019-11-24T05:00:12-05:00",
+        "published_date": "2019-11-24T05:00:12-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Rumors and Misinformation",
+            "Video Recordings, Downloads and Streaming",
+            "Computers and the Internet",
+            "Social Media",
+            "Presidential Election of 2020",
+            "Research",
+            "Deepfakes"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Google Inc",
+            "YouTube.com"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2019/11/24/business/24DEEPFAKES-01/24DEEPFAKES-01-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Actors were filmed in a variety of scenes. The top picture is their actual image, with a deepfake altered image below it. ",
+                "copyright": "Google"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/24/business/24DEEPFAKES-01/24DEEPFAKES-01-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Actors were filmed in a variety of scenes. The top picture is their actual image, with a deepfake altered image below it. ",
+                "copyright": "Google"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/24/business/24DEEPFAKES-01/24DEEPFAKES-01-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Actors were filmed in a variety of scenes. The top picture is their actual image, with a deepfake altered image below it. ",
+                "copyright": "Google"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/24/business/24DEEPFAKES-01/24DEEPFAKES-01-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Actors were filmed in a variety of scenes. The top picture is their actual image, with a deepfake altered image below it. ",
+                "copyright": "Google"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/24/business/24DEEPFAKES-01/24DEEPFAKES-01-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Actors were filmed in a variety of scenes. The top picture is their actual image, with a deepfake altered image below it. ",
+                "copyright": "Google"
+            }
+        ],
+        "short_url": "https://nyti.ms/2OeECau"
+    },
+    {
+        "section": "Technology",
+        "subsection": "",
+        "title": "Why Everyone Is Angry at Facebook Over Its Political Ads Policy",
+        "abstract": "The social network is said to be discussing changes that include restricting how precisely campaigns can reach specific groups.",
+        "url": "https://www.nytimes.com/2019/11/22/technology/campaigns-pressure-facebook-political-ads.html",
+        "byline": "By MIKE ISAAC",
+        "item_type": "Article",
+        "updated_date": "2019-11-22T10:17:49-05:00",
+        "created_date": "2019-11-22T05:00:18-05:00",
+        "published_date": "2019-11-22T05:00:18-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Political Advertising",
+            "Online Advertising",
+            "Rumors and Misinformation",
+            "Corporate Social Responsibility",
+            "Social Media",
+            "Presidential Election of 2020",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Facebook Inc"
+        ],
+        "per_facet": [
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2019/11/23/business/22jpfacebook-print/22facebook-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, Facebook&rsquo;s chief executive, has said he will run political ads in the interest of free speech. Although the company has reached no decisions, it is weighing some changes.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/23/business/22jpfacebook-print/22facebook-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, Facebook&rsquo;s chief executive, has said he will run political ads in the interest of free speech. Although the company has reached no decisions, it is weighing some changes.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/23/business/22jpfacebook-print/22facebook-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, Facebook&rsquo;s chief executive, has said he will run political ads in the interest of free speech. Although the company has reached no decisions, it is weighing some changes.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/23/business/22jpfacebook-print/22facebook-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, Facebook&rsquo;s chief executive, has said he will run political ads in the interest of free speech. Although the company has reached no decisions, it is weighing some changes.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2019/11/23/business/22jpfacebook-print/22facebook-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, Facebook&rsquo;s chief executive, has said he will run political ads in the interest of free speech. Although the company has reached no decisions, it is weighing some changes.",
+                "copyright": "Pete Marovich for The New York Times"
+            }
+        ],
+        "short_url": "https://nyti.ms/34hrs2o"
+    },
+    {
+        "section": "Technology",
+        "subsection": "",
+        "title": "A Former Fox News Executive Divides Americans Using Russian Tactics",
+        "abstract": "An investigation found that several sites owned by Ken LaCorte push inflammatory items — stories, petitions and the occasional conspiracy theory — to the public.",
+        "url": "https://www.nytimes.com/2019/11/21/technology/LaCorte-edition-news.html",
+        "byline": "By NICOLE PERLROTH",
+        "item_type": "Article",
+        "updated_date": "2019-11-22T01:19:16-05:00",
+        "created_date": "2019-11-21T11:34:33-05:00",
+        "published_date": "2019-11-21T11:34:33-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rumors and Misinformation",
+            "News and News Media",
+            "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+            "Presidential Election of 2016",
+            "Social...
